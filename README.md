@@ -99,5 +99,3 @@ Do not upload real Emirates ID images, extracted identity information, or other 
 This project demonstrates the integration of:
 
 **Computer Vision + Vision Language Models + OCR-style Information Extraction + Desktop GUI + Automated Document Capture**
-
-It can serve as a foundation for intelligent document-scanning and identity-document processing applications.
