@@ -2,8 +2,6 @@
 
 An AI-powered desktop application for automatically detecting and extracting information from Emirates ID cards using a webcam, OpenCV, PyQt5, and Ollama vision models.
 
-https://github.com/user-attachments/assets/3be34ff4-c098-471e-bc15-04f0afd97a26
-
 ## 🚀 Features
 
 * 📷 Real-time webcam-based Emirates ID detection
